@@ -24,4 +24,11 @@ Nota:
   " o Sistema do Mini Game ainda não disponivel, Mas será disponibilizado em Breve "
                                                                            - Isac
 
+LINK DO CIRCUITO DA AMQUINA BRAILE NO TINKERCARD:
+
+https://www.tinkercad.com/things/dRV7gWsonAZ-maquina-braile-01
+
+
+
+
                           

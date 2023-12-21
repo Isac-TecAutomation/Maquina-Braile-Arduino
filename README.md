@@ -28,6 +28,8 @@ LINK DO CIRCUITO DO Teclado BRAILE NO TINKERCARD:
 
 https://www.tinkercad.com/things/dRV7gWsonAZ-maquina-braile-01
 
+Dicas, Duvidas ou Perguntas:
+        Envie Para isactecautomation@gmail.com
 
 
 

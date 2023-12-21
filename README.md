@@ -11,11 +11,11 @@ Alguns dos Objetivos Centrais São:
 
 - Criar algo que possa Ser Divertido e Educativo
 
-  Metodologia Inicial:
+Metodologia Inicial:
 
   -Esta Disponivel inicialmente nesse Primeiro Esboço do Circuito Inicial do Teclado e Código de Funcionamento de tal
 
-  IDEIAS FUTURAS:
+Ideias Futuras:
   
   -Criar Uma Bibloteca Propia para O Teclado Braile Para que possa ser Usada em Outros Porjetos
 

@@ -15,6 +15,10 @@ Alguns dos Objetivos Centrais São:
 
   -Esta Disponivel inicialmente nesse Primeiro Esboço do Circuito Inicial do Teclado e Código de Funcionamento de tal
 
+  IDEIAS FUTURAS:
+  
+  -Criar Uma Bibloteca Propia para O Teclado Braile Para que possa ser Usada em Outros Porjetos
+
 Nota:
 
   " o Sistema do Mini Game ainda não disponivel, Mas será disponibilizado em Breve "

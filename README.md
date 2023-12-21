@@ -13,7 +13,7 @@ Alguns dos Objetivos Centrais São:
 
   Metodologia Inicial:
 
-  -Esta Disponivel inicialmente nesse Primeiro Esboço o Circuito Inicial do Teclado e Código de Funcionamento de tal
+  -Esta Disponivel inicialmente nesse Primeiro Esboço do Circuito Inicial do Teclado e Código de Funcionamento de tal
 
 Nota:
 

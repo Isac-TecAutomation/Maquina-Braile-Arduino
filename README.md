@@ -3,11 +3,9 @@
 Este Projeto Tem como Objetivo Criar Um Prototipo de mini game 
 com Arduino Para Crianças Portadoras de Deficiência Visual na Fase de Alfabetização
 
-.OBJETIVO DA IDEIA:
-
 Alguns dos Objetivos Centrais São:
 
-- Criar Um Protótipo Acessiveis Para Qualquer Pessoa possa monta-lo ou Manipula-lo
+- Criar Um Protótipo Acessiveis Para que Qualquer Pessoa possa monta-lo ou Manipula-lo
   
 - Criar um protótipo prático onde Posssa ser usado em qualquer Escola ou Estabelecimento de Ensino
 
